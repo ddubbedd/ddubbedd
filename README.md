@@ -2,4 +2,7 @@
 - 👀 I’m interested in c#/c++/python
 - 🌱 I’m currently learning in Samara University
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me: https://www.facebook.com/profile.php?id=100072398191161
+- 📫 How to reach me:
+- 📫 Facebook: https://www.facebook.com/profile.php?id=100072398191161
+- 📫 Twitter: https://twitter.com/ssalnyed
+- 📫 Vk: https://vk.com/plumhaze
