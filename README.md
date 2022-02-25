@@ -1,4 +1,4 @@
-# I’m @salnyeds
+:heartpulse:# I’m @salnyeds:heartpulse:
 __
 - 👀 *I’m interested in c#/c++/c/python*
 - 📫 *How to reach me:*
