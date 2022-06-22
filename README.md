@@ -1,7 +1,7 @@
 <!-- By https://github.com/salnyed -->
 
-##  :sparkles:*Salnyed* :sparkles:
-![Fumo_Fumo_Plush_Series_-_Cirno_says_Hi](https://raw.githubusercontent.com/salnyed/salnyed/main/image_561306121119258424687.gif)
+## *Hi, I am Salnyed*
+![Rick-and-Morty](https://raw.githubusercontent.com/salnyed/salnyed/main/giphy.gif)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salnyed)](https://git.io/streak-stats)
 
