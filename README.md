@@ -1,7 +1,9 @@
 <!-- By https://github.com/salnyed -->
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Salnyed)](https://git.io/typing-svg)
+## Salnyed
 ![Fumo_Fumo_Plush_Series_-_Cirno_says_Hi](https://user-images.githubusercontent.com/26704473/134087747-34034899-ab76-456a-b2a0-951fae813412.gif)
 ### Contacts
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salnyed)](https://git.io/streak-stats)
 
 [![Telegram](https://img.shields.io/badge/telegram-1f272e?style=for-the-badge&logo=telegram)](https://t.me/salnyed)
