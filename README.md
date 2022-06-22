@@ -1,7 +1,7 @@
-:heartpulse:I’m @salnyeds
+<!-- By https://github.com/salnyed -->
 
-- 👀 *I’m interested in c#/c++/c/python*
-- 📫 *How to reach me:*
-- 📫 *Facebook: https://www.facebook.com/profile.php?id=100072398191161*
-- 📫 *Twitter: https://twitter.com/ssalnyed*
-- 📫 *Vk: https://vk.com/plumhaze*
+## Salnyed
+![Fumo_Fumo_Plush_Series_-_Cirno_says_Hi](https://user-images.githubusercontent.com/26704473/134087747-34034899-ab76-456a-b2a0-951fae813412.gif)
+### Contacts
+
+[![Telegram](https://img.shields.io/badge/telegram-1f272e?style=for-the-badge&logo=telegram)](https://t.me/salnyed)
