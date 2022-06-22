@@ -1,7 +1,7 @@
 <!-- By https://github.com/salnyed -->
 
-##  :purple_heart:*Salnyed* :purple_heart:
-![Fumo_Fumo_Plush_Series_-_Cirno_says_Hi](https://user-images.githubusercontent.com/26704473/134087747-34034899-ab76-456a-b2a0-951fae813412.gif)
+##  :sparkles:*Salnyed* :sparkles:
+![Fumo_Fumo_Plush_Series_-_Cirno_says_Hi](https://raw.githubusercontent.com/salnyed/salnyed/main/image_561306121119258424687.gif)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salnyed)](https://git.io/streak-stats)
 
