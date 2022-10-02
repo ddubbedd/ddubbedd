@@ -1,7 +1,7 @@
 <!-- By https://github.com/salnyed -->
 
 ## *Hi, I am dubbed*
-![Rick-and-Morty](https://raw.githubusercontent.com/salnyed/salnyed/main/giphy.gif)
+![Coding](https://raw.githubusercontent.com/ddubbedd/ddubbedd/main/giphy.gif)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ddubbedd&theme=dark)](https://git.io/ddubbedd)
 
