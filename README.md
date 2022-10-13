@@ -6,4 +6,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ddubbedd&theme=dark)](https://git.io/ddubbedd)
 
 ### Contacts
-[![Telegram](https://img.shields.io/badge/telegram-1f272e?style=for-the-badge&logo=telegram)](https://t.me/ddubbedd)
+[![Telegram](https://img.shields.io/badge/telegram-1f272e?style=for-the-badge&logo=telegram)](https://t.me/litirnntir)
