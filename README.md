@@ -3,7 +3,7 @@
 ## *Hi, I am dubbed*
 ![Coding](https://raw.githubusercontent.com/ddubbedd/ddubbedd/main/giphy.gif)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=litirnntir&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=litirnntir&theme=omni)](https://git.io/streak-stats)
 
 ### Contacts
 [![Telegram](https://img.shields.io/badge/telegram-1f272e?style=for-the-badge&logo=telegram)](https://t.me/litirnntir)
