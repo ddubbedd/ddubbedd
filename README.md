@@ -1,7 +1,8 @@
 <!-- By https://github.com/salnyed -->
 
 ## *Hi, I am dubbed*
-![Coding](https://raw.githubusercontent.com/ddubbedd/ddubbedd/main/giphy.gif)
+![Coding](https://raw.githubusercontent.com/litirnntir/litirnntir/main/1VM9.gif)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=litirnntir&theme=omni)](https://git.io/streak-stats)
 
