@@ -1,5 +1,3 @@
-<!-- By https://github.com/salnyed -->
-
 ## *Hi, I am litirnntir*
 ![Coding](https://raw.githubusercontent.com/litirnntir/litirnntir/main/1VM9.gif)
 
