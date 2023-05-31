@@ -6,4 +6,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=litirnntir&theme=onedark)](https://git.io/streak-stats)
 
 ### Contacts
-[![Telegram](https://img.shields.io/badge/telegram-1f272e?style=for-the-badge&logo=telegram)](https://t.me/litirnntir)
+[![Telegram](https://img.shields.io/badge/telegram-1f272e?style=for-the-badge&logo=telegram)](https://t.me/salnyed)
